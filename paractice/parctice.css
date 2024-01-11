@@ -1,0 +1,45 @@
+body {
+    background-color: #00ffff;
+}
+
+.first {
+    color: pink;
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+#second {
+    color: greenyellow;
+    background-color: black;
+    text-align: right;
+    font-size: 50px;
+}
+
+.third {
+    color: blue;
+    background-color: black;
+    text-align: left;
+    font-size: 50px;
+}
+
+#four {
+    color: brown;
+    background-color: black;
+    text-align: right;
+    font-size: 50px;
+}
+
+.five {
+    color: blueviolet;
+    background-color: black;
+    text-align: left;
+    font-size: 50px;
+}
+
+#six {
+    color: aqua;
+    background-color: black;
+    text-align: right;
+    font-size: 50px;
+}
